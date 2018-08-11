@@ -1,6 +1,6 @@
-# Binding-of-Isaac-Item-Lookup
+# Binding of Isaac Item Lookup
 
-~Unfinished Project~
+Unfinished Project
 
 Java application to lookup item information within the game "Binding of Isaac"
 
