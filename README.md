@@ -1,6 +1,6 @@
 # Binding of Isaac Item Lookup
 
-Unfinished Project
+Unfinished Project - Attempting Web Scraping 
 
 Java application to lookup item information within the game "Binding of Isaac"
 
